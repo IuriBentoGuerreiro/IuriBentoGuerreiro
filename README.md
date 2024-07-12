@@ -3,7 +3,7 @@
 ### 🧍‍♂️ About me
  - My name is **Iuri**
  - I'm from Brazil.
- - I am 18 years old.
+ - I am 19 years old.
  - I'm a {**BACKEND**} - developer.
 
 ### 📌 Skills
